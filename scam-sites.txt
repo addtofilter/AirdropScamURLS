@@ -8,6 +8,7 @@
 ||loyalty.claims
 ||http://loyal.claims
 ||loyal.claims
+||t.co/0YpcN93Sbm
 ||loyaltyben.com
 ||loyaltyben.com
 ||loyalbens.com
@@ -32,3 +33,5 @@
 ||pepe.gl
 ||t.co/4MTvuZiGNl
 ||pulsechainclaim.com
+||t.co/EAKFHo162J
+||pickandrick.com
