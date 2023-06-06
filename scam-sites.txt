@@ -1,4 +1,5 @@
 ||bencolneth.com
+||cawnetwork.app
 ||finale.claims
 ||http://loyal.claims
 ||https://psyop.best
@@ -22,11 +23,14 @@
 ||psyop.best
 ||psyop.gives
 ||psyop.info
+||psyopd.net
 ||psyopdex.org
 ||pulsechainclaim.com
 ||t.co/0YpcN93Sbm
 ||t.co/17SFjHsU1d
+||t.co/39EOkuIVGl
 ||t.co/4MTvuZiGNl
+||t.co/6vFpQIo40K
 ||t.co/A86wuXj8Lf
 ||t.co/C1rPcsPWkn
 ||t.co/EAKFHo162J
