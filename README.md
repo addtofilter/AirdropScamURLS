@@ -4,17 +4,11 @@ This project aims to automate the process of identifying and filtering scam cryp
 
 ## Overview
 
-The project consists of several steps:
+Instructions: https://twitter.com/addtofilter/status/1665432169907462150
 
-1. **Twitter Monitoring**: The Twitter API is used to monitor tweets that mention "@addtofilter." This allows you to capture tweets where users suspect a scam crypto airdrop and provide a link.
+The RAW link below needs to be in uBlock's custom filters
 
-2. **Link Redirection Check**: The script checks the redirection of the links shared in the tweets. It determines the final destination URL to verify if it is a scam site or not.
-
-3. **Manual Verification**: A temporary list of redirected scam site URLs is generated. You manually review and validate the list to remove any false positives or non-scam sites.
-
-4. **GitHub Integration**: The script interacts with the GitHub API to create a new repository and a file to store the verified scam site URLs. The file is programmatically updated with the URLs from the temporary list.
-
-5. **Filtering with uBlock**: The final list of verified scam site URLs can be exported from the repository and used as a filter with ad-blocking tools like uBlock. This helps protect users from accessing scam sites.
+https://raw.githubusercontent.com/addtofilter/AirdropScamURLS/main/scam-sites.txt
 
 ## Disclaimer
 
