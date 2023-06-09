@@ -1,6 +1,8 @@
 ||bencolneth.com
 ||cawnetwork.app
+||davetoken.xyz
 ||finale.claims
+||finale.fund
 ||http://loyal.claims
 ||https://psyop.best
 ||https://psyop.best/
@@ -17,6 +19,7 @@
 ||loyalty.gl
 ||loyaltyben.com
 ||loyaltyben.com
+||mint.citrusapes.xyz
 ||nothing-coin.com
 ||pepe.gl
 ||pickandrick.com
@@ -34,10 +37,13 @@
 ||t.co/A86wuXj8Lf
 ||t.co/C1rPcsPWkn
 ||t.co/EAKFHo162J
+||t.co/ewf6czDYJh
 ||t.co/GGiIE6pp55
 ||t.co/H4sPBFbIzJ
 ||t.co/kRSmXgEeWg
+||t.co/whIpUK9ijQ
 ||t.co/xMVZIOcPjj
 ||t.co/yt1Afa8YRt
 ||t.co/yt1Afa8YRt
+||t.co/zkDiKCgGEw
 ||trias.finance
